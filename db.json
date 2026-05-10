@@ -1,72 +1,74 @@
-[
-    {
-        "id": 1,
-        "name": "Indonesia",
-        "continent": "Asia",
-        "population": 277534122,
-        "mainReligion": "Islam"
-    },
-    {
-        "id": 2,
-        "name": "India",
-        "continent": "Asia",
-        "population": 1380004385,
-        "mainReligion": "Hinduism"
-    },
-    {
-        "id": 3,
-        "name": "Thailand",
-        "continent": "Asia",
-        "population": 69799978,
-        "mainReligion": "Buddhism"
-    },
-    {
-        "id": 4,
-        "name": "Germany",
-        "continent": "Europe",
-        "population": 83240525,
-        "mainReligion": "Christianity"
-    },
-    {
-        "id": 5,
-        "name": "Nigeria",
-        "continent": "Africa",
-        "population": 206139587,
-        "mainReligion": "Islam"
-    },
-    {
-        "id": 6,
-        "name": "South Africa",
-        "continent": "Africa",
-        "population": 59308690,
-        "mainReligion": "Christianity"
-    },
-    {
-        "id": 7,
-        "name": "United States",
-        "continent": "North America",
-        "population": 329484123,
-        "mainReligion": "Christianity"
-    },
-    {
-        "id": 8,
-        "name": "Brazil",
-        "continent": "South America",
-        "population": 212559409,
-        "mainReligion": "Christianity"
-    },
-    {
-        "id": 9,
-        "name": "Australia",
-        "continent": "Oceania",
-        "population": 25687041,
-        "mainReligion": "Christianity"
-    },
-    {
-        "id": 10,
-        "name": "Israel",
-        "continent": "Asia",
-        "population": 9216900,
-        "mainReligion": "Judaism"
-    }
-]
+{
+    "simpleCountries": [
+        {
+            "id": 1,
+            "name": "Indonesia",
+            "continent": "Asia",
+            "population": 277534122,
+            "mainReligion": "Islam"
+        },
+        {
+            "id": 2,
+            "name": "India",
+            "continent": "Asia",
+            "population": 1380004385,
+            "mainReligion": "Hinduism"
+        },
+        {
+            "id": 3,
+            "name": "Thailand",
+            "continent": "Asia",
+            "population": 69799978,
+            "mainReligion": "Buddhism"
+        },
+        {
+            "id": 4,
+            "name": "Germany",
+            "continent": "Europe",
+            "population": 83240525,
+            "mainReligion": "Christianity"
+        },
+        {
+            "id": 5,
+            "name": "Nigeria",
+            "continent": "Africa",
+            "population": 206139587,
+            "mainReligion": "Islam"
+        },
+        {
+            "id": 6,
+            "name": "South Africa",
+            "continent": "Africa",
+            "population": 59308690,
+            "mainReligion": "Christianity"
+        },
+        {
+            "id": 7,
+            "name": "United States",
+            "continent": "North America",
+            "population": 329484123,
+            "mainReligion": "Christianity"
+        },
+        {
+            "id": 8,
+            "name": "Brazil",
+            "continent": "South America",
+            "population": 212559409,
+            "mainReligion": "Christianity"
+        },
+        {
+            "id": 9,
+            "name": "Australia",
+            "continent": "Oceania",
+            "population": 25687041,
+            "mainReligion": "Christianity"
+        },
+        {
+            "id": 10,
+            "name": "Israel",
+            "continent": "Asia",
+            "population": 9216900,
+            "mainReligion": "Judaism"
+        }
+    ]
+}
